@@ -1,6 +1,5 @@
 Resolusi ke depannya :
 - Belajar php
 - Belajar javascript
-- belajar Ci
 - Belajar Laravel
 - Belajar React
