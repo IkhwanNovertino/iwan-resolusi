@@ -3,3 +3,4 @@ Resolusi ke depannya :
 - Belajar javascript
 - belajar Ci
 - Belajar Laravel
+- Belajar React
